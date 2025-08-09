@@ -44,3 +44,32 @@ A modern, multi-functional web application built with **Streamlit** for essentia
 - Developed with ❤️ using [**Streamlit**](https://streamlit.io/)
 - System resource monitoring via [**psutil**](https://pypi.org/project/psutil/)
 - UI, functionality, and full-stack implementation by **Dev Saxena**
+
+
+## Screenshots:
+
+<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/dce69519-0e2f-48b2-8a19-92741fb9a5a8" />
+
+<img width="1300" height="912" alt="image" src="https://github.com/user-attachments/assets/f8b38373-1423-4788-a583-c326a7ab768f" />
+
+<img width="1916" height="953" alt="image" src="https://github.com/user-attachments/assets/d61c0797-c62b-4b78-8972-d9b8243bf6cf" />
+
+<img width="974" height="992" alt="image" src="https://github.com/user-attachments/assets/636586cb-a6de-47c3-951c-dc6110262190" />
+
+<img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/84cdb5c7-d264-4736-bd8e-f8e5d3db1f2c" />
+
+<img width="465" height="869" alt="image" src="https://github.com/user-attachments/assets/11e1c274-2722-4ccc-9cee-2d6bbfdc2a67" />
+
+<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/f3efbfcc-7c20-4029-b6aa-531e64e6dbf3" />
+
+<img width="430" height="786" alt="image" src="https://github.com/user-attachments/assets/027b7031-c9bc-44ff-80ca-a877dc12fac8" />
+
+<img width="1915" height="943" alt="image" src="https://github.com/user-attachments/assets/de08d468-f65f-412c-9227-3eaeec97e365" />
+
+<img width="1499" height="947" alt="image" src="https://github.com/user-attachments/assets/a4f0672c-dfb3-4cd9-aadc-492201578a7b" />
+
+<img width="1417" height="937" alt="image" src="https://github.com/user-attachments/assets/ec21ea23-2c56-4d2c-bd58-dd3b9f5fcdbc" />
+
+<img width="1913" height="1075" alt="image" src="https://github.com/user-attachments/assets/94c41fd2-49be-41d1-b0fa-d5aed95e6537" />
+
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/283392d1-5853-4c70-8226-8667bd5e526c" />
